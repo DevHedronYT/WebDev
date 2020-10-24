@@ -3,10 +3,12 @@ Gets Coronavirus Information
 
 Some of the code may be different from the video as most of the code in the repository was posted way before the video and I modified some of the code in the video to make it more efficient and better
 
-To get this repository on your computer's Terminal or Command Prompt type:
- git clone https://github.com/ssjCoderYT/CoronaScraper.git
+
+To clone this repository just type 'git clone https://github.com/DevHedronYT/WebDev.git', if that does not work just download the zip by clicking on the green 'Code' button
  
 Or just download the zip by clicking on the code button on the top right
+
+Then navigate to the folder of this file
 
 To run, just run the main.py script, also please have Beautiful Soup, and Kivy installed and also have Python 3.x.x
 
