@@ -3,7 +3,7 @@ Spam your friends on discord
 
 To clone this repository or just download the zip by clicking on the green code button:
       
-      git clone https://github.com/ssjCoderYT/DiscordSpammer.git
+      git clone https://github.com/DevHedronYT/WebDev.git
 
 Dependencies are: Selenium Selenium Webdriver (Download from here or follow the steps below): https://chromedriver.chromium.org/downloads
 
