@@ -8,7 +8,7 @@ To clone this repository just type 'git clone https://github.com/DevHedronYT/Web
  
 Or just download the zip by clicking on the code button on the top right
 
-Then navigate to the folder of this file
+Then navigate to the folder of these files
 
 To run, just run the main.py script, also please have Beautiful Soup, and Kivy installed and also have Python 3.x.x
 
