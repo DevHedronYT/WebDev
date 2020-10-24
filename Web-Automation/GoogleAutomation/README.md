@@ -3,7 +3,7 @@ Automate Google with Python (Selenium)
 
 To clone this repository or just download the zip by clicking on the green code button:
   
-    git clone https://github.com/ssjCoderYT/GoogleAutomation.git
+    git clone https://github.com/DevHedronYT/WebDev.git
 
 Dependencies are:
   Selenium
@@ -30,7 +30,7 @@ To install them:
 Visit:    https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver,    if you have any issues
 
 
-To run type:
+To run, navigate to the folder of this file and then type:
 
     python3 main.py on MacOSX or Linux
     python main.py on Windows
