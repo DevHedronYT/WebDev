@@ -30,7 +30,7 @@ To install:
 
 Visit: https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver, if you have any issues
 
-To run type:
+To run, navigate to the folder of these files and then type:
 
     python3 main.py on MacOSX or Linux
     python main.py on Windows
