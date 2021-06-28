@@ -1,0 +1,74 @@
+body, html {
+    margin: 0;
+    font-family:Inter, sans-serif;
+    color:white;
+    background-color: black;
+}
+
+a {
+    color:aqua;
+    text-decoration: none;
+}
+
+a:hover {
+    color:chartreuse;
+}
+
+input[type = text] {
+    background-color:antiquewhite;
+    color: black;
+    height: 150px;
+    margin: 50px;
+    text-align: center;
+    display: block;
+    border: 1px solid #818181;
+
+}
+
+.content {
+    margin: 0 auto;
+    width: 400px;
+}
+
+
+table, td, th {
+    border: 3px solid #aaa;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+#content {
+    width: 70%;
+}
+
+
+#button {
+    background-color:lightslategray; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin-left: 130px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+
+
