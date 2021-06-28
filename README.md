@@ -1,2 +1,6 @@
 # WebDev
-My Open Source Public Web Development Projects
+My open source web development projects.
+To get the repo
+``
+git clone https://github.com/DevHedronYT/GameDev.git
+``
